@@ -20,7 +20,7 @@ function Page2() {
     <div className="page2 h-[100vh] w-full px-[2vw] py-[4vw] flex justify-center items-center">
       <img
         className="w-full h-full object-cover"
-        src="../public/images/oaxaca.png"
+        src="/images/oaxaca.png"
         alt=""
       />
     </div>
